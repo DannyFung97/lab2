@@ -35,11 +35,5 @@ body {
 
 p {
      font-variant: small-caps;
-}
-
-.project {
-     margin-left: 20px;
-     background-color: #deebf7;
-     padding: 20px;
-     width: 560px;
+     text-align: center;
 }
